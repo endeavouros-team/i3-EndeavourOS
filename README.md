@@ -42,7 +42,7 @@ get your api key here: https://openweathermap.org/appid and City code: https://o
 * logout button (poweroff, logout, suspending, hibernate e.t.c.)
 
 # panel bar (i3-blocks):
-![alt text](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/bar-legend.png "bar legende")
+![alt text](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/bar-tutorial.png "bar legende")
 * CONFIG FILE = ~/.config/i3/i3blocks.conf
 # Logout Menu:
 ![alt text](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/logoutmenu.png "logout-menu")
