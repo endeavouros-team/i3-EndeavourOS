@@ -57,7 +57,7 @@ bindsym $mod+Return exec xfce4-terminal
 bindsym $mod+c kill
 
 # open keybindings overview
-bindsym $mod+F1 exec "leafpad ~/.config/i3/keybindings"
+bindsym $mod+F1 exec "xed ~/.config/i3/keybindings"
 
 # start dmenu (a program launcher)
 # bindsym $mod+d exec dmenu_run
