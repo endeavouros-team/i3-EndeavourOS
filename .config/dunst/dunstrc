@@ -167,8 +167,7 @@
 
     # Paths to default icons.
     #icon_path = /usr/share/icons/gnome/16x16/status/:/usr/share/icons/gnome/16x16/devices/
-    icon_path= /usr/share/icons/Arc-X-D/status/:/usr/share/icons/Arc-X-D/devices/:/usr/share/icons/Arc-X-D/apps/:/usr/share/icons/Arc-X-D/actions/:/usr/share/icons/Arc-X-D/categories/
-    
+    icon_path = /usr/share/icons/Paper/16x16/status/:/usr/share/icons/Paper/16x16/devices/:/usr/share/icons/Paper/16x16/apps/     
     ### History ###
 
     # Should a notification popped up from history be sticky or timeout
