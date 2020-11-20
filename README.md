@@ -1,5 +1,8 @@
 # i3-EndeavourOS
 ## joekamprad: setup for i3 under [EndeavourOS](https://endeavouros.com)
+---
+[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/0)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/0)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/1)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/1)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/2)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/2)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/3)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/3)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/4)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/4)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/5)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/5)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/6)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/6)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/7)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/7)
+---
 
 # Tutorial for i3-wm settings:
 * background handled by [nitrogen](https://wiki.archlinux.org/index.php/nitrogen)
