@@ -63,7 +63,9 @@ login to i3.
 
 https://endeavouros.com/docs/window-tiling-managers/i3-wm/
 
+# minimal on using rescources and an size too:
 ![i3-pacgraph](https://forum.endeavouros.com/uploads/default/original/3X/6/9/6985bf1ebc24fd5a8a45279c9a9a7ce94746913b.png)
+
 ----
 
 # Tutorial to install EndeavourOS-i3 setup from scratch 
