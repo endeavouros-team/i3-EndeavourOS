@@ -1,10 +1,6 @@
 # i3-EndeavourOS
 ## joekamprad: setup for i3 under [EndeavourOS](https://endeavouros.com)
 
----
-[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/0)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/0)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/1)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/1)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/2)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/2)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/3)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/3)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/4)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/4)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/5)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/5)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/6)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/6)[![](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/images/7)](https://sourcerer.io/fame/killajoe/endeavouros-team/i3-EndeavourOS/links/7)
----
-
 # Tutorial for i3-wm settings:
 * background handled by [nitrogen](https://wiki.archlinux.org/index.php/nitrogen)
 * gtk3 theme handled by [lxappearance-gtk3](https://wiki.lxde.org/de/LXAppearance)
@@ -67,6 +63,7 @@ login to i3.
 
 https://endeavouros.com/docs/window-tiling-managers/i3-wm/
 
+![i3-pacgraph](https://forum.endeavouros.com/uploads/default/original/3X/6/9/6985bf1ebc24fd5a8a45279c9a9a7ce94746913b.png)
 ----
 
 # Tutorial to install EndeavourOS-i3 setup from scratch 
