@@ -18,6 +18,11 @@ set $mod Mod4
 #default i3 tiling mode
 workspace_layout default
 
+
+# Set inner/outer gaps
+gaps inner 2
+gaps outer 0
+
 #do not show titlebar on windows: 
 new_window 1pixel
 
