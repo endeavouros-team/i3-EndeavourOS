@@ -124,24 +124,24 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 # workspace-edit:
-set $ws2 ""
-set $ws3 ""
-set $ws4 ""
-set $ws5 ""
-set $ws6 ""
+set $ws1 ""
+set $ws2 ""
+set $ws3 ""
+set $ws4 ""
+set $ws5 ""
 
 bindsym $mod+s exec --no-startup-id ~/.config/i3/scripts/empty_workspace.sh
 
 # autostart start applications + bind program to workspace:
-assign [class="Xfce4-terminal"] $ws2
+assign [class="Xfce4-terminal"] $ws1
 for_window [class=Xfce4-terminal] focus
-assign [class="(?i)firefox"] $ws3
+assign [class="(?i)firefox"] $ws2
 for_window [class=(?i)firefox] focus
-assign [class="Thunar"] $ws4
+assign [class="Thunar"] $ws3
 for_window [class=Thunar] focus
-assign [class="Thunderbird"] $ws5
+assign [class="Thunderbird"] $ws4
 for_window [class=Thunderbird] focus
-assign [class="TelegramDesktop"] $ws6
+assign [class="TelegramDesktop"] $ws5
 for_window [class=TelegramDesktop] focus
 
 # Autostart apps:
