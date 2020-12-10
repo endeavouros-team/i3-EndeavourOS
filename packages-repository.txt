@@ -39,3 +39,4 @@ arc-x-icons-theme
 arc-gtk-theme
 galculator
 gtk-engine-murrine
+dex
