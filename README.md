@@ -54,7 +54,10 @@ get your api key here: https://openweathermap.org/appid and City code: https://o
 # Notifications are done with dunst:
 ![alt text](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/dunst-i3-enOS.png "dunst-notification")
 * CONFIG FILE = ~/.config/dunst/dunstrc
+# dex : autostarting apps from /etc/xdg/autostart/ 
+https://github.com/jceb/dex
 
+---
 ![alt text](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/i3-desktop.png "i3-running")
 
 login to i3.
