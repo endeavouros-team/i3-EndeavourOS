@@ -1,4 +1,4 @@
-# i3-EndeavourOS
+# i3-EndeavourOS i3-wm setup and theme from 2020 (old one)
 ## joekamprad: setup for i3 under [EndeavourOS](https://endeavouros.com)
 
 # Tutorial for i3-wm settings:
